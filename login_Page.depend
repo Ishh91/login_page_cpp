@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642091373 source:f:\loginpage\login_page\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+
